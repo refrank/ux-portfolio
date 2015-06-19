@@ -458,3 +458,8 @@ footer .footer-below {
     display: none;
     opacity: 0;
 }
+
+.portfolio-thumbnail-caption {
+    text-align: center;
+	font-size: 26px;
+}
